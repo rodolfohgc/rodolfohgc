@@ -2,7 +2,7 @@
 - 👀 I’m a lifelong learner.
 - During my whole life, I've been a generalist person and always hungry to learn new abilities.
 - Despite not being a total specialist in any given topic, that makes me a good learner, open to learn new skills to become a fullstack developer.
-- 🌱 I’m currently learning HTML, CSS, JavaScript and PHP, looking to a opportunity as front-end dev.
+- 🌱 I’m currently studying HTML, CSS, JavaScript and PHP, looking to a opportunity as full stack dev.
 - 🧰 Besides the developer skills, I have a professional background as journalist, marketer and content writer.
 - 💞️ I’m looking to collaborate on projects related to criptocurrencies, blockchain and web3, but I'm open to any idea.
 - 
