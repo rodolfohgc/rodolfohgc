@@ -29,6 +29,8 @@ Busco a oportunidade de contribuir em projetos inovadores, trazendo minha bagage
   <li><a href="https://www.linkedin.com/in/rodolfo-conceicao/">Linkedin</a></li>
 </ul>
 
+<hr>
+
 <h3>:us: Hey there! My name is Rodolfo and at 32 I'm at the beginning of my career again, migrating after a journey of almost 10 years in communication and marketing.</h3>
 I studied <strong>Systems Analysis and Development</strong>, but unfortunately I had to drop out of college in the last semester. However, the <em>good academic performance</em> gave me a <em>solid and multidisciplinary base</em> to continue my studies in programming on my own.
 Currently I work as a <strong>systems analyst</strong> in an industry. My job consists in <em>improving purchasing operations, implementing new tools and developing small systems in Bootstrap4, PHP and MySQL to optimize internal processes, directly impacting business results. In addition, I collaborate with the marketing team and provide technical assistance in IT, in addition to some administrative routines.</em>
