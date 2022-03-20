@@ -8,7 +8,7 @@ Busco a oportunidade de contribuir em projetos inovadores, trazendo minha bagage
 <h3>🧰 HARDSKILLS</h3>
 <ul>
   <li>HTML5 / CSS3 / JavaScript ES6 / Bootstrap</li>
-  <li>PHP / MySQL / Apache</li>
+  <li>PHP / MySQL / Apache / Ajax</li>
   <li>Wordpress</li>
   <li>Inglês fluente</li>
   <li>Marketing digital</li>
@@ -40,7 +40,7 @@ I'm looking for the opportunity to contribute to innovative projects, bringing m
 <h3>🧰 HARDSKILLS</h3>
 <ul>
   <li>HTML5 / CSS3 / JavaScript ES6 / Bootstrap</li>
-  <li>PHP / MySQL / Apache</li>
+  <li>PHP / MySQL / Apache / Ajax</li>
   <li>Wordpress</li>
   <li>Fluent English</li>
   <li>Digital Marketing</li>
